@@ -1,0 +1,30 @@
+.captionText {
+    color: #FD7400;
+}
+
+.homepage {
+    width: 25%;
+    margin: auto;
+}
+
+.bgimage {
+    width:100%;
+    height:500px;
+    background: url("../img/beers-background.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+body {
+    background-color: black;
+}
+
+h1, h2, h3, h4, h5, p, a {
+    color: white;
+}
+
+.card {
+    background-color: black;
+}
